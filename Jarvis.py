@@ -111,9 +111,6 @@ while True:
         os.startfile("C:\\Users\\USER\Downloads")
         print('opening downloads')
         speak('opening downloads')
-    elif:
-        speak('sorry boss i cant understand you ' + 'please say it again')
-        break
     else:
         speak('sorry boss i cant understand you '+'please say it again')
     time.sleep(5)
