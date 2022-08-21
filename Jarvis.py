@@ -111,7 +111,7 @@ while True:
         os.startfile("C:\\Users\\USER\Downloads")
         print('opening downloads')
         speak('opening downloads')
-    else:
+    else if:
         speak('sorry boss i cant understand you ' + 'please say it again')
         break
     else:
